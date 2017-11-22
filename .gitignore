@@ -3,4 +3,3 @@ node_modules
 *.error
 dist
 .webpack
-config
